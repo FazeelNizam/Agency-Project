@@ -1,4 +1,4 @@
-# This is my first year Mini Project of OUSL
+# This Is My First Year Mini Project @ OUSL
 
 ## Frontend
 >HTML, CSS & Bootstrap
